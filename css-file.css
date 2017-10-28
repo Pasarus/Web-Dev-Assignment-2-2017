@@ -1,0 +1,88 @@
+body {
+	background-color: #6795c6;
+	padding: 10px 10px 10px 10px;
+	margin-left: 75px;
+	margin-right: 75px;
+	margin-top: 0;
+	margin-bottom: 0;
+	font-family: arial, sans-serif;
+	height: 100%;
+}
+header {
+	top: 0px;
+	margin-left: 12.75%;
+	background-color: #c0dcf9;
+    padding: 10px 0px 10px 10px;
+    text-align: left;
+}
+nav{
+	top: 0;
+	list-style-type: none;
+    float: left;
+    width: 10%;
+    padding: 0.5% 0.5% 0.5% 0.5%;
+    background-color: #95bae2;
+    text-align: left;
+    height: 100%;
+    position: fixed;
+}
+main{
+	text-align: center;
+	background-color: #e3effc;
+	padding: 1px 16px;
+	margin-left: 12.75%;
+	margin-bottom: auto;
+}
+footer{
+	text-align: right;
+	background-color: #c0dcf9;
+	padding: 3px 16px;
+	margin-left: 12.75%;
+}
+h3{
+	text-align: left;
+	font-size: 16px;
+}
+#float-left{
+	float: left;
+	width: 50%;
+	text-align: left;
+}
+#float-right{
+	float: right;
+	width: 50%;
+	text-align: left;
+}
+#table-left{
+	float: left;
+}
+#declaration{
+	font-style: italic;
+	font-size: 10px;
+}
+#disclaimer{
+	font-style: italic;
+	font-size: 9px;
+}
+#myInfo{
+	text-align: center;
+	list-style: none;
+}
+#contactInfo{
+	text-align: center;
+}
+#CVMain{
+	text-align: left;
+}
+#html5badge{
+	float: left;
+}
+nav a:visited{
+	color: #720070;
+}
+nav a:link{
+	color: #001359;
+}
+nav a:hover{
+	color: #00b2ff;
+}
